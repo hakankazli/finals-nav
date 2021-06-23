@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "654084138184",
+    "project_id": "deneme-e2cb8",
+    "storage_bucket": "deneme-e2cb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654084138184:android:e04d4ba4e035687afaf1fd",
+        "android_client_info": {
+          "package_name": "com.example.sinav_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654084138184-v549m68q39paodgvh0q6fqo43027bik8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sinav_app",
+            "certificate_hash": "12eabd1b031ee07bec974af91bb022dd048a067b"
+          }
+        },
+        {
+          "client_id": "654084138184-m2gfb2ugb30u2d6jdl8bsoncrt8n9e7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaGLE5y0XINfBc06c3403UE4CDtfpEy5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654084138184-m2gfb2ugb30u2d6jdl8bsoncrt8n9e7a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
